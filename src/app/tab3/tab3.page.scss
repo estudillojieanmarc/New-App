@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;500&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+ion-card-title{
+    font-size: 17px;
+}
+ion-title span{
+    color: orange;
+}
+ion-header ion-label{
+    letter-spacing: 1px;
+}
+ion-card-content ion-label{
+    text-align: center;
+}

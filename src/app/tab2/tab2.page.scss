@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;500&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.image{
+    height: 260px;
+    clip-path: circle();
+    display: block;
+    margin: auto;
+}
+ion-card-title{
+    font-size: 17px;
+}
+ion-card-subtitle{
+    font-size: 17px;
+    float: right;
+    color: rgb(218, 216, 216);
+}
+ion-title span{
+    color: orange;
+}
+ion-button{
+    float:right;
+    margin: 5px 20px 10px 0;
+}
